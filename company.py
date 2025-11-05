@@ -1,5 +1,5 @@
 # company.py
-# Versi sederhana dari kode original dengan komentar penjelasan.
+
 
 class Karyawan:
     def __init__(self, nama, usia, pendapatan, insentif_lembur):
