@@ -42,7 +42,6 @@ class TenagaLepas(Karyawan):
 
     def tambahan_proyek(self, nilai_proyek):
         """
-        Pada kode original kamu menggunakan nilai_proyek * 0.01 (1%).
         Biasanya freelancer mendapat persentase yang lebih tinggi, misal 10% (0.1).
         Di sini saya pakai 0.1 (10%) supaya terlihat lebih masuk akal,
         """
